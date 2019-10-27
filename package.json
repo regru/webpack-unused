@@ -1,13 +1,13 @@
 {
-  "name": "webpack-unused",
+  "name": "@regru/webpack-unused",
   "description": "Check your frontend code for files/assets that are no longer used.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Philip Roberts",
   "bin": {
     "webpack-unused": "index.js"
   },
   "bugs": {
-    "url": "https://github.com/latentflip/webpack-unused/issues"
+    "url": "https://github.com/regru/webpack-unused/issues"
   },
   "dependencies": {
     "es6-promisify": "^3.0.0",
@@ -15,11 +15,11 @@
     "yargs": "^5.0.0"
   },
   "devDependencies": {},
-  "homepage": "https://github.com/latentflip/webpack-unused#readme",
+  "homepage": "https://github.com/regru/webpack-unused#readme",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/latentflip/webpack-unused.git"
+    "url": "git+https://github.com/regru/webpack-unused.git"
   }
 }
