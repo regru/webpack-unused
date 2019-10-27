@@ -1,4 +1,4 @@
-# webpack-unused
+# @regru/webpack-unused
 
 Check your frontend code for files/assets that are no longer used.
 
@@ -9,7 +9,7 @@ and lists files which haven't been required.
 
 ```bash
 # install webpack-unused
-npm install -g webpack-unused
+npm install -g @regru/webpack-unused
 
 # run webpack using your normal webpack config etc
 # with the --json switch to output the stats.json, and pipe to webpack-unused
